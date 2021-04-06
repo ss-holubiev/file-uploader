@@ -1,4 +1,9 @@
-#Runway Software - 1 Hour Coding Test
+##Runway Software - 1 Hour Coding Test
+
+###How to run
+
+- Open in Visual Studio 2019
+- Press Run (in any mode)
 
 ### Created from default VS 2019 template
 
